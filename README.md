@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/678c43f098c00f71171da711?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/wide/678c43f098c00f71171da711?variant=dark)](https://roadmap.sh)
 
 <!--
 **coffeesnwob/coffeesnwob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
